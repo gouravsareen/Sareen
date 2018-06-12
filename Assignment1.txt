@@ -1,0 +1,15 @@
+Git commands:-
+1.) git init:- Initialized Git Repository.
+2.) a.) git config --global user.name "name"
+        :- Get the user name & declared globally.
+     b.) git config --global user.email "email"
+        :- Get the user email & declared globally.
+3.) git status:- Tells the status i.e. on branch      master or in origin.
+4.) git add filename.txt:- Add the textfile in          the Repository.
+5.) git commit -m "first commit":- To save      only one file of the folder.
+6.) git commit . :- To save all file of the      folder.
+7.) git log:- Tells the Author's name,Email           & Date & Time of the Repository.
+
+Github commands:-
+1.) git remote add origin      https://github.com/goru/test.git:- Gives      the path of the file.
+2.) git push -u origin master:- Add or push the      files of master into origin.
